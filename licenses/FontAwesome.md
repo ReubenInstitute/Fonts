@@ -1,7 +1,7 @@
-# Font Awesome 7 Brands
+# Font Awesome 7 (Brands and Solid)
 
 - **License:** Font Awesome Free License: fonts under the SIL Open Font License 1.1 (the SVG icons are CC BY 4.0, code is MIT)
-- **Files:** fa-brands-400.woff2
+- **Files:** fa-brands-400.woff2, fa-solid-900.woff2
 - **Copyright (from the font):** Copyright (c) Font Awesome
 - **Where the files and the source come from:** https://github.com/FortAwesome/Font-Awesome (release 7.3.1, fontawesome-free-7.3.1-web.zip, webfonts/)
 
