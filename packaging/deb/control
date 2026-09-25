@@ -4,6 +4,6 @@ Section: fonts
 Priority: optional
 Architecture: all
 Maintainer: Reuben Institute <reubeninstitute@gmail.com>
-Description: Reuben Institute fonts
+Description: Fonts used by Reuben Institute projects
  Third-party and custom fonts used by Reuben Institute projects,
  installed to /usr/share/fonts/reubeninstitute.
