@@ -1,9 +1,9 @@
 Package: fonts
-Version: 0.5
+Version: 0.6
 Section: fonts
 Priority: optional
 Architecture: all
-Maintainer: Reuben Institute <robert.wallner.edward@gmail.com>
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
 Description: Reuben Institute fonts
  Third-party and custom fonts used by Reuben Institute projects,
  installed to /usr/share/fonts/reubeninstitute.
