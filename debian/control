@@ -1,9 +1,13 @@
-Package: fonts
-Version: 0.8
+Source: fonts
 Section: fonts
 Priority: optional
-Architecture: all
 Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+
+Package: fonts
+Architecture: all
+Depends: ${misc:Depends}
 Description: Fonts used by Reuben Institute projects
  Third-party and custom fonts used by Reuben Institute projects,
  installed to /usr/share/fonts/reubeninstitute.

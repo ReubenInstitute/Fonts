@@ -1,0 +1,4 @@
+*.ttf usr/share/fonts/reubeninstitute
+*.otf usr/share/fonts/reubeninstitute
+*.woff2 usr/share/fonts/reubeninstitute
+licenses usr/share/fonts/reubeninstitute
