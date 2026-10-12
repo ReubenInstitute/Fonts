@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "common-fonts"
+version = "0.1"
+description = "Third-party and custom fonts used by Reuben Institute projects"
+readme = { text = "Third-party and custom fonts used by Reuben Institute projects.", content-type = "text/plain" }
+requires-python = ">=3.8"
+dependencies = []
+
+[tool.setuptools]
+packages = ["fonts"]
+
+[tool.setuptools.package-dir]
+fonts = "."
+
+[tool.setuptools.package-data]
+fonts = ["*.ttf", "*.otf", "*.woff2"]
