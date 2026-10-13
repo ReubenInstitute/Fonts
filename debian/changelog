@@ -1,6 +1,0 @@
-fonts (0.10) unstable; urgency=medium
-
-  * Switch packaging from packaging/deb/ (dpkg-deb --build) to a proper
-    debian/ source package (dpkg-buildpackage), built with debhelper.
-
- -- Reuben Institute <reubeninstitute@gmail.com>  Sat, 26 Sep 2026 20:59:45 +0300

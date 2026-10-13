@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "common-fonts"
-version = "0.1"
+version = "0.12"
 description = "Third-party and custom fonts used by Reuben Institute projects"
 readme = { text = "Third-party and custom fonts used by Reuben Institute projects.", content-type = "text/plain" }
 requires-python = ">=3.8"
